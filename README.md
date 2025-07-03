@@ -2,7 +2,7 @@
 
 ### 🚀 **Live Demo**
 
-🔗 [Try the Application Here](https://your-streamlit-app-link-here) — **Instantly predict customer churn with an intuitive web interface!**
+🔗 [Try the Application Here](https://sam-customer-churn-prediction.streamlit.app/) — **Instantly predict customer churn with an intuitive web interface!**
 
 ---
 
